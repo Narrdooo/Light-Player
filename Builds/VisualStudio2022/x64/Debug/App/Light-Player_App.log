@@ -1,0 +1,105 @@
+﻿  BinaryData.cpp
+  AudioPlayer.cpp
+  AudioUtils.cpp
+  Main.cpp
+  PlayerPanel.cpp
+  PlayerUI.cpp
+C:\Users\roonn\Documents\projects\Light-Player\Source\PluginWindow.h(74,83): warning C4996: 'juce::GenericAudioProcessorEditor::GenericAudioProcessorEditor': This constructor has been changed to take a reference instead of a pointer. (编译源文件 ..\..\Source\PlayerPanel.cpp)
+C:\Users\roonn\Documents\projects\Light-Player\Source\PluginWindow.h(74,83): warning C4996: 'juce::GenericAudioProcessorEditor::GenericAudioProcessorEditor': This constructor has been changed to take a reference instead of a pointer. (编译源文件 ..\..\Source\AudioUtils.cpp)
+C:\Users\roonn\Documents\projects\Light-Player\Source\PluginWindow.h(74,83): warning C4996: 'juce::GenericAudioProcessorEditor::GenericAudioProcessorEditor': This constructor has been changed to take a reference instead of a pointer. (编译源文件 ..\..\Source\Main.cpp)
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(27,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(26,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(25,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(24,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(36,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(35,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(34,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(32,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(43,16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(41,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(53,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(52,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(51,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\AudioUtils.cpp(50,49): warning C4100: “idx”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(49,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(63,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(62,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(61,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(59,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(72,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(71,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\AudioUtils.cpp(95,22): warning C4458: “sampleRate”的声明隐藏了类成员
+C:\Users\roonn\Documents\projects\Light-Player\Source\AudioUtils.h(39,9): message : 参见“AudioUtils::sampleRate”的声明 (编译源文件 ..\..\Source\AudioUtils.cpp)
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(70,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(68,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(13,62): warning C4100: “drawTitleTextOnLeft”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(13,51): warning C4100: “icon”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\AudioUtils.cpp(95,12): warning C4101: “sampleRate”: 未引用的局部变量
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(12,73): warning C4100: “titleSpaceW”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(12,56): warning C4100: “titleSpaceX”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerUI.cpp(18,10): warning C4189: “isActive”: 局部变量已初始化但不引用
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(94,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(93,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(92,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(91,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(101,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(100,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(99,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(98,57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(97,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(111,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(110,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(109,49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(108,57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(107,62): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(120,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(119,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(118,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(117,57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(116,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(140,41): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(158,64): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(157,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(156,64): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(155,16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(188,61): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(187,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(186,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(185,130): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(184,112): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(196,61): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(195,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(194,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(193,90): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(192,90): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(81,9): warning C4189: “playListWidth”: 局部变量已初始化但不引用
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(80,9): warning C4189: “thickness”: 局部变量已初始化但不引用
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(240,70): warning C4100: “y”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(240,63): warning C4100: “x”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(240,52): warning C4100: “files”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\AudioUtils.cpp(221,26): warning C4458: “sampleIndex”的声明隐藏了类成员
+C:\Users\roonn\Documents\projects\Light-Player\Source\AudioUtils.h(41,9): message : 参见“AudioUtils::sampleIndex”的声明 (编译源文件 ..\..\Source\AudioUtils.cpp)
+C:\Users\roonn\Documents\projects\Light-Player\Source\AudioUtils.cpp(245,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\roonn\Documents\projects\Light-Player\Source\AudioUtils.cpp(258,56): warning C4458: “sampleRate”的声明隐藏了类成员
+C:\Users\roonn\Documents\projects\Light-Player\Source\AudioUtils.h(39,9): message : 参见“AudioUtils::sampleRate”的声明 (编译源文件 ..\..\Source\AudioUtils.cpp)
+C:\Users\roonn\Documents\projects\Light-Player\Source\Main.cpp(18,36): warning C4100: “commandLine”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(343,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(343,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(343,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(469,66): warning C4100: “columnId”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(486,22): warning C4458: “cornerSize”的声明隐藏了类成员
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.h(70,9): message : 参见“PlayerPanel::cornerSize”的声明 (编译源文件 ..\..\Source\PlayerPanel.cpp)
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(489,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(489,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(489,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(492,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(492,16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(493,62): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(493,48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(493,28): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(493,16): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(482,65): warning C4100: “rowNumber”: 未引用的形参
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(497,30): warning C4458: “width”的声明隐藏了类成员
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.h(122,9): message : 参见“PlayerPanel::PlayList::width”的声明 (编译源文件 ..\..\Source\PlayerPanel.cpp)
+C:\Users\roonn\Documents\projects\Light-Player\Source\PlayerPanel.cpp(497,54): warning C4100: “rowIsSelected”: 未引用的形参
+  Light-Player_App.vcxproj -> C:\Users\roonn\Documents\projects\Light-Player\Builds\VisualStudio2022\x64\Debug\App\Light-Player.exe
